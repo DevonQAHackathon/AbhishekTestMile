@@ -1,0 +1,20 @@
+package dir.ui.ghost.tests.enums;
+
+public enum GhostPageElements {
+	EMAIL, 
+	PASSWORD, 
+	SUBMIT, 
+	NEW_POST_BUTTON,
+	POST_TITLE,
+	POST_DESC,
+	PUBLISH_BUTTON,
+	PUBLISH,
+	CONTENT,
+	ALL_POSTS,
+	DELETE,
+	DELETE_BUTTON,
+	PUBLISH_NOW,
+	POST_CONTENT,
+	USER_PROFILE,
+	SIGNOUT
+}
